@@ -77,4 +77,6 @@
 
 <h2>Diagrama de la API en Strapi</h2>
 <p>El siguiente diagrama muestra las colecciones y relaciones de la API configuradas en Strapi:</p>
+<img src="off-topic/Entrega 1/ERDPlus.png" alt="Diagrama de la BDD en ERDPlus" style = "width: 100%";>
+<p>Esta imagen son captura de las colecciones de la API en Strapi</p>
 <img src="off-topic/Entrega 1/collage-strapi.png" alt="Diagrama de la API en Strapi" style="width: 100%;">
