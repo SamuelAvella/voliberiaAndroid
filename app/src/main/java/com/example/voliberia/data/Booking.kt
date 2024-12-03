@@ -7,6 +7,5 @@ class Booking (
     val flightId: String,
     val userId: String,
     val bookingState: Boolean,
-    val seats: String, // JSON como String
     val totalPrice: Double
 )
